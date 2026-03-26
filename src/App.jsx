@@ -1,6 +1,6 @@
 import React from "react";
 import Counter from "./Components/Counter";
-import ProductLike from "./components/ProductLike";
+import ProductLike from "./Components/ProductLike";
 
 const App = () => {
   return (
